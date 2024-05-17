@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: harshalb/cicd-e2e:v1
+        image: harshalb/cicd-e2e:v32
         ports:
         - containerPort: 8000
